@@ -23,7 +23,7 @@ def process_json_file(input_file, output_file):
                 parts_of_speech = []
                 for trans in content["trans"]:
                     meanings.append(trans["tranCn"].split('；')[0])  # 只取第一个分号之前的内容
-                    parts_of_speech.append(trans["pos"])
+                    parts_of_speech.append(trans.get("pos", ""))
                 word_info["meaning"] = '/'.join(meanings)
                 word_info["part_of_speech"] = '/'.join(parts_of_speech)
 
@@ -51,6 +51,6 @@ def process_json_file(input_file, output_file):
     print(f"数据已成功保存到 {output_file}")
 
 # 调用函数
-input_file = 'KaoYan_3.json'
-output_file = 'KaoYan_3_out.json'
+input_file = 'IELTSluan_2.json'
+output_file = 'yasi.json'
 process_json_file(input_file, output_file)
