@@ -1,0 +1,74 @@
+{
+  "word_list": [
+    {
+      "word": "revolt",
+      "meaning": "反抗，起义",
+      "part_of_speech": "v/n",
+      "pronunciation": "/rɪˈvoʊlt/",
+      "example_sentence": "The peasants' revolt was quickly suppressed by the king's forces."
+    },
+    {
+      "word": "specialist",
+      "meaning": "专家",
+      "part_of_speech": "n",
+      "pronunciation": "/ˈspeʃəlɪst/",
+      "example_sentence": "She consulted a specialist to get a second opinion on her diagnosis."
+    },
+    {
+      "word": "carpet",
+      "meaning": "地毯",
+      "part_of_speech": "n",
+      "pronunciation": "/ˈkɑːrpɪt/",
+      "example_sentence": "The room was decorated with a beautiful Persian carpet."
+    },
+    {
+      "word": "meditation",
+      "meaning": "冥想",
+      "part_of_speech": "n",
+      "pronunciation": "/ˌmɛdɪˈteɪʃən/",
+      "example_sentence": "He practices meditation every morning to reduce stress."
+    },
+    {
+      "word": "persist",
+      "meaning": "坚持",
+      "part_of_speech": "v",
+      "pronunciation": "/pərˈsɪst/",
+      "example_sentence": "Despite the challenges, she decided to persist with her studies."
+    },
+    {
+      "word": "avoid",
+      "meaning": "避免",
+      "part_of_speech": "v",
+      "pronunciation": "/əˈvɔɪd/",
+      "example_sentence": "He took a different route to avoid the heavy traffic."
+    },
+    {
+      "word": "yellow",
+      "meaning": "黄色",
+      "part_of_speech": "adj/n",
+      "pronunciation": "/ˈjɛloʊ/",
+      "example_sentence": "The walls were painted a bright yellow to create a cheerful atmosphere."
+    },
+    {
+      "word": "consult",
+      "meaning": "咨询，查阅",
+      "part_of_speech": "v",
+      "pronunciation": "/kənˈsʌlt/",
+      "example_sentence": "Before making a decision, you should consult with a financial advisor."
+    },
+    {
+      "word": "assume",
+      "meaning": "假设，承担",
+      "part_of_speech": "v",
+      "pronunciation": "/əˈsuːm/",
+      "example_sentence": "We shouldn't assume that everyone has the same level of understanding."
+    },
+    {
+      "word": "doctorate",
+      "meaning": "博士学位",
+      "part_of_speech": "n",
+      "pronunciation": "/ˈdɑːktərɪt/",
+      "example_sentence": "She earned her doctorate in physics from a prestigious university."
+    }
+  ]
+}
