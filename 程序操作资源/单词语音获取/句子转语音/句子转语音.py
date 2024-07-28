@@ -62,6 +62,6 @@ def process_json(json_file, output_folder):
         text_to_speech(word, example_sentence, output_folder)
 
 # 示例调用
-json_file = '/Users/duyi/UnityProject/WordPuddingResource/程序操作资源/单词json/单词json/kaoyan.json'  # 请将此路径替换为你的JSON文件路径
-output_folder = '/Users/duyi/UnityProject/WordPuddingResourceGitee/mainword/kaoyan/sentenceaudios'  # 保存MP3文件的文件夹
+json_file = '/Users/duyi/UnityProject/WordPuddingResource/程序操作资源/单词json/单词json/zhongkao.json'  # 请将此路径替换为你的JSON文件路径
+output_folder = '/Users/duyi/UnityProject/WordPuddingResourceGitee/mainword/zhongkao/sentenceaudios'  # 保存MP3文件的文件夹
 process_json(json_file, output_folder)
